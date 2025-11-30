@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data folders
+data/
+
+# Environment folders
+.venv/
+env/
+venv/
+conda_env/
+conda-meta/
+
+# VS Code settings (optional)
+#.vscode/
+
+# Model outputs
+#models/
+#*.pkl
+#*.joblib
+#*.h5
+#*.pt
+#*.onnx
+
+# Logs
+*.log
+
+# Other
+#*.sqlite

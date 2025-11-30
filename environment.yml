@@ -1,0 +1,14 @@
+name: churn_
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - jupyterlab
+  - pip
+  - pip:
+      - seaborn
+      - xgboost
