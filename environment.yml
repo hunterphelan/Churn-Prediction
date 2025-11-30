@@ -1,4 +1,4 @@
-name: churn_
+name: churn_prediction
 channels:
   - conda-forge
 dependencies:
