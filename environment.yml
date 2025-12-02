@@ -10,6 +10,8 @@ dependencies:
   - jupyterlab
   - pip
   - openpyxl
+  - math
+  - datetime
   - pip:
       - seaborn
       - xgboost

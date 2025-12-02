@@ -32,6 +32,14 @@ It includes data exploration, feature engineering, model training, and evaluatio
 
 ## 📊 Results
 
+NOTE: 
+Each project in its own folder with README.md explaining:
+Problem statement
+Data source
+Methodology
+Key insights
+Visuals + link to deployed demo (if any)
+
 Models evaluated:
 - Logistic Regression  
 - Random Forest  
