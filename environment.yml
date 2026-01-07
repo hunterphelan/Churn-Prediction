@@ -12,6 +12,7 @@ dependencies:
   - openpyxl
   - math
   - datetime
+  - statsmodels
   - pip:
       - seaborn
       - xgboost
