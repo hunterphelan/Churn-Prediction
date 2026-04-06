@@ -13,6 +13,7 @@ dependencies:
   - math
   - datetime
   - statsmodels
+  - shap
   - pip:
       - seaborn
       - xgboost
